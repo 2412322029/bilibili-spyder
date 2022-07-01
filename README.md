@@ -11,7 +11,7 @@
 访问时带上head可以获得评论的json文件
 ## 评论json数据结构
 
-[![N4oqN.png](https://i.imgtg.com/2022/07/01/N4oqN.png)](https://imgtg.com/image/N4oqN)
+[![N4oqN.png](./img/json.png)](./img/json.png)
 
 ## 过程
 使用的库：requests，jieba，re，pandas，matplotlib，json，csv
@@ -24,9 +24,9 @@
 
 ## Results show
 点赞量与等级的关系
-![N4qrC.png](https://i.imgtg.com/2022/07/01/N4qrC.png)
+![N4qrC.png](./img/3.png)
 评论词频
-![N45QL.png](https://i.imgtg.com/2022/07/01/N45QL.png)
+![N45QL.png](./img/1.png)
 评论词云
-![N4BCi.png](https://i.imgtg.com/2022/07/01/N4BCi.png)
+![N4BCi.png](./img/2.png)
 
